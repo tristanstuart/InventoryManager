@@ -1,0 +1,3 @@
+0,bread,8,
+1,cake,8,
+2,cheese,17,
